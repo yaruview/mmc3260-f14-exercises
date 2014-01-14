@@ -5,13 +5,9 @@ writing code by hand, that doesn't mean you won't have a ton of [tools to help y
 
 ## Lessons for MMC3260
 
-### Setup GitHub
+### Setup GitHub and Brackets (1:29:15)
 
-(recording video during Week 2 labs)
-
-### How to submit exercises
-
-(recording video during Week 2 labs)
+https://vimeo.com/84170993
 
 ### Setup WordPress
 
