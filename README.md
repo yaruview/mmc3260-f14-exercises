@@ -169,7 +169,7 @@ Docs: https://help.github.com/articles/setting-up-a-custom-domain-with-pages
 
 #### Due January 17: Set-up your Wordpress blog and Github account
 
-#### Due January 31: Ex1 HTML quick fix
+#### Due January 26: Ex1 HTML quick fix
 
 Fix any incorrect tag syntax or mismatched tags in 1.html-quick-fix.html
 
