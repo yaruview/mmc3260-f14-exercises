@@ -13,7 +13,7 @@ writing code by hand, that doesn't mean you won't have a ton of [tools to help y
 * 13:00 The repository page
 * 14:45 Installing GitHub for Mac
 * 16:45 You can change you GitHub profile image using [Gravatar](http://gravatar.com)
-* 18:30 *Cloning* the repository
+* 18:30 Cloning the repository
 * 22:00 problem: Can't install the app?
 * 24:00 Finding your local repository folder
 * 25:30 Installing [Brackets](http://brackets.io)
@@ -22,10 +22,10 @@ writing code by hand, that doesn't mean you won't have a ton of [tools to help y
 * 39:45 Commit with the GitHub for Mac app
 * 45:00 Confirm the sync at [GitHub.com](http://github.com)
 * 51:00 Publishing your website
-* 1:06:00 *Fork* the exercises repository
-* 1:11:00 *Clone* the exercises repository
+* 1:06:00 Fork the exercises repository
+* 1:11:00 Clone the exercises repository
 * 1:13:00 Completing a sample exercise
-* 1:15:00 Submitting a sample exercise through by opening a *pull request*
+* 1:15:00 Submitting a sample exercise through by opening a pull request
 
 https://vimeo.com/84170993
 
