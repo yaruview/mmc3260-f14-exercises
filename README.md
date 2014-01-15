@@ -49,6 +49,8 @@ https://vimeo.com/album/60951/video/73275774
 
 https://vimeo.com/album/60951/video/73314711
 
+The first 12 minutes are redundant if you've watched the "Setup GitHub and Brackets" video, but conceptual repetition is great for learning.
+
 * 0:00 Setup a new GitHub repository for your project.
 * 2:30 Clone your project repository so you can edit files.
 * 3:30 You should have two folders that are Git repositories.
