@@ -7,6 +7,8 @@ writing code by hand, that doesn't mean you won't have a ton of [tools to help y
 
 ### Setup GitHub and Brackets (1:29:15)
 
+https://vimeo.com/84170993
+
 * 2:40 Setup GitHub 
 * 6:40 Create your first repository
 * 10:45 Name your personal website repository
