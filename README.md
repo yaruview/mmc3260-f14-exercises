@@ -29,8 +29,6 @@ https://vimeo.com/84170993
 * 1:13:00 Completing a sample exercise
 * 1:15:00 Submitting a sample exercise through by opening a pull request
 
-https://vimeo.com/84170993
-
 ### Setup WordPress
 
 https://vimeo.com/album/60951/video/72794857
