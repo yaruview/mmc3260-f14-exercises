@@ -101,6 +101,12 @@ https://vimeo.com/album/60951/video/74087374
 
 https://vimeo.com/album/60951/video/74087378
 
+### Due February 7: Ex2 HTML links and images
+
+Fix all broken absolute and relative URLs used for links and images.
+
+## Week 5
+
 ### Cascading Style Sheets (CSS)
 
 https://vimeo.com/album/60951/video/74087384
@@ -109,9 +115,13 @@ https://vimeo.com/album/60951/video/74087384
 
 https://vimeo.com/album/60951/video/74207102
 
+## Week 6
+
 ### Layout
 
 https://vimeo.com/album/60951/video/75182215
+
+### Due February 21: Ex3 HTML wireframe
 
 ### Cropping and Optimizing Images with Photoshop
 
@@ -128,6 +138,8 @@ https://vimeo.com/76584113
 https://vimeo.com/76875414
 
 * 0:00 Embed a YouTube video as an iframe
+
+## Week 7
 
 ### Float and Clear (15:16)
 
@@ -152,6 +164,8 @@ http://vimeo.com/78179491
 * 23:52 Chrome's web inspector and developer tools
 * 31:50 2-column responsive layout
 
+## Week 8
+
 ### Media Queries (24:39)
 
 https://vimeo.com/78232538
@@ -167,11 +181,22 @@ https://vimeo.com/78232538
 
 ### GitHub Issues (4:50)
 
+### Due March 7: Personal website first draft
+
 https://vimeo.com/78232975
+
+## Week 9
 
 ### Building ufspj.com with more complicated selectors (1:37:34)
 
 https://vimeo.com/79536323
+
+### Due March 14: Ex4 CSS typography
+
+* Set h1, h2 and p styles for desktop
+* Override those styles for phone width
+
+## Week 10
 
 ### Using a custom domain name for your github.io repo (6:05)
 
@@ -179,30 +204,9 @@ https://vimeo.com/79538776
 
 Docs: https://help.github.com/articles/setting-up-a-custom-domain-with-pages
 
-## Assignments for MMC3260
-
-
-
-
-
-#### Due February 7: Ex2 HTML links and images
-
-Fix all broken absolute and relative URLs used for links and images.
-
-#### Due February 21: Ex3 HTML wireframe
-
-#### Due March 7: Personal website first draft
-
-#### Due March 14: Ex4 CSS typography
-
-* Set h1, h2 and p styles for desktop
-* Override those styles for phone width
-
-#### Due March 21: Ex5 CSS selectors (6:43)
+### Due March 21: Ex5 CSS selectors (6:43)
 
 * Fork TBD
 * Make useful additions to `style.css` though the use of at least two selectors: descendent, adjacent, id or class.
 * Create a pull request
 * Confirm your pull request at URL TBD
-
-#### Due ?: Personal website second draft
