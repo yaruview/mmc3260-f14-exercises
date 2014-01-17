@@ -3,7 +3,7 @@
 We'll be writing HTML and CSS by hand to understand the fundamental code interactions of the modern Web. Although we're
 writing code by hand, that doesn't mean you won't have a ton of [tools to help you](https://github.com/gotoplanb/mmc3260/wiki/Tools).
 
-## Lessons for MMC3260
+## Week 2
 
 ### Setup GitHub and Brackets (1:29:15)
 
@@ -45,6 +45,10 @@ https://vimeo.com/album/60951/video/73275757
 
 https://vimeo.com/album/60951/video/73275774
 
+### Due January 17: Set-up your Wordpress blog and Github account
+
+## Week 3
+
 ### Links (41:43)
 
 https://vimeo.com/album/60951/video/73314711
@@ -80,6 +84,14 @@ https://vimeo.com/album/60951/video/73314759
 ### Validating Your Code
 
 https://vimeo.com/album/60951/video/74087366
+
+### Due January 26: Ex1 HTML quick fix
+
+Fix any incorrect tag syntax or mismatched tags in 1.html-quick-fix.html
+
+Use the W3C validator: http://validator.w3.org/#validate_by_input
+
+## Week 4
 
 ### Images
 
@@ -169,13 +181,9 @@ Docs: https://help.github.com/articles/setting-up-a-custom-domain-with-pages
 
 ## Assignments for MMC3260
 
-#### Due January 17: Set-up your Wordpress blog and Github account
 
-#### Due January 26: Ex1 HTML quick fix
 
-Fix any incorrect tag syntax or mismatched tags in 1.html-quick-fix.html
 
-Use the W3C validator: http://validator.w3.org/#validate_by_input
 
 #### Due February 7: Ex2 HTML links and images
 
