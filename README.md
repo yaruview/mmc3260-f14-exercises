@@ -181,8 +181,6 @@ https://vimeo.com/78232538
 
 ### GitHub Issues (4:50)
 
-### Due March 7: Personal website first draft
-
 https://vimeo.com/78232975
 
 ## Week 9
@@ -191,7 +189,7 @@ https://vimeo.com/78232975
 
 https://vimeo.com/79536323
 
-### Due March 14: Ex4 CSS typography
+### Due March 14: Personal website first draft
 
 * Set h1, h2 and p styles for desktop
 * Override those styles for phone width
@@ -204,7 +202,11 @@ https://vimeo.com/79538776
 
 Docs: https://help.github.com/articles/setting-up-a-custom-domain-with-pages
 
-### Due March 21: Ex5 CSS selectors (6:43)
+### Due March 21: Ex4 CSS typography
+
+## Week 11
+
+### Due March 28: Ex5 CSS selectors (6:43)
 
 * Fork TBD
 * Make useful additions to `style.css` though the use of at least two selectors: descendent, adjacent, id or class.
