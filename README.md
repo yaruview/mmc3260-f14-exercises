@@ -121,8 +121,6 @@ https://vimeo.com/album/60951/video/74207102
 
 https://vimeo.com/album/60951/video/75182215
 
-### Due February 21: Ex3 HTML wireframe
-
 ### Cropping and Optimizing Images with Photoshop
 
 https://vimeo.com/76584113
@@ -138,6 +136,8 @@ https://vimeo.com/76584113
 https://vimeo.com/76875414
 
 * 0:00 Embed a YouTube video as an iframe
+
+### Due February 21: Ex3 HTML wireframe
 
 ## Week 7
 
@@ -183,18 +183,18 @@ https://vimeo.com/78232538
 
 https://vimeo.com/78232975
 
-## Week 9
+## Week 10
 
 ### Building ufspj.com with more complicated selectors (1:37:34)
 
 https://vimeo.com/79536323
 
-### Due March 14: Personal website first draft
+### Due 11:59 p.m. Thursday, March 13: Personal website first draft
 
 * Set h1, h2 and p styles for desktop
 * Override those styles for phone width
 
-## Week 10
+## Week 11
 
 ### Using a custom domain name for your github.io repo (6:05)
 
@@ -204,7 +204,7 @@ Docs: https://help.github.com/articles/setting-up-a-custom-domain-with-pages
 
 ### Due March 21: Ex4 CSS typography
 
-## Week 11
+## Week 12
 
 ### Due March 28: Ex5 CSS selectors (6:43)
 
