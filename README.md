@@ -103,7 +103,7 @@ https://vimeo.com/album/60951/video/74087378
 
 ### Due February 7: Ex2 HTML links and images
 
-Fix all broken absolute and relative URLs used for links and images.
+Fix all broken absolute and relative URLs used for links and images in your `2-html-links-and-images.html` file of your repository fork.
 
 ## Week 5
 
