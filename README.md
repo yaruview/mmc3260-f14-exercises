@@ -105,6 +105,8 @@ https://vimeo.com/album/60951/video/74087378
 
 Fix all broken absolute and relative URLs used for links and images in your `2-html-links-and-images.html` file of your repository fork.
 
+[Wiki page with more explanation](https://github.com/gotoplanb/mmc3260-s14-exercises/wiki/Exercise-2:-What-am-I-supposed-to-do%3F)
+
 ## Week 5
 
 ### Cascading Style Sheets (CSS)
