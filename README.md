@@ -188,9 +188,9 @@ https://vimeo.com/78232975
 
 ## Week 10
 
-### Building ufspj.com with more complicated selectors (1:37:34)
+### Building projectexplorer.org part 1: HTML/CSS wireframe (1:20:24)
 
-https://vimeo.com/79536323
+https://vimeo.com/86071547
 
 ### Due 11:59 p.m. Thursday, March 13: Personal website first draft
 
@@ -198,6 +198,10 @@ https://vimeo.com/79536323
 * Override those styles for phone width
 
 ## Week 11
+
+### Building projectexplorer.org part 2: CSS spacing and typography (1:16:23)
+
+https://vimeo.com/86124386
 
 ### Using a custom domain name for your github.io repo (6:05)
 
