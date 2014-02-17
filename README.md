@@ -137,9 +137,12 @@ https://vimeo.com/76875414
 
 * 0:00 Embed a YouTube video as an iframe
 
-### Due February 21: Ex3 HTML wireframe
+### Due February 21: Ex3 Wireframe and HTML prototype
 
-## Week 7 (starting Feb 17)
+1. Create a sketch of one of your pages and put it in the `/img/` folder of your exercsies repository. [more info](https://github.com/gotoplanb/mmc3260-s14-exercises/wiki/Exercise-3:-What-am-I-suppose-to-do%3F)
+2. Write all off the HTML you need for the overall site structure and major content elements. This code should be placed in `3-html-wireframe.html` [more info](https://github.com/gotoplanb/mmc3260-s14-exercises/wiki/Exercise-3:-What-am-I-suppose-to-do%3F)
+
+## Week 7
 
 ### Float and Clear (15:16)
 
@@ -164,7 +167,7 @@ http://vimeo.com/78179491
 * 23:52 Chrome's web inspector and developer tools
 * 31:50 2-column responsive layout
 
-## Week 8 (starting Feb 25)
+## Week 8
 
 ### Media Queries (24:39)
 
@@ -183,7 +186,7 @@ https://vimeo.com/78232538
 
 https://vimeo.com/78232975
 
-## Week 10 (starting Mar 10)
+## Week 10
 
 ### Building ufspj.com with more complicated selectors (1:37:34)
 
@@ -194,7 +197,7 @@ https://vimeo.com/79536323
 * Set h1, h2 and p styles for desktop
 * Override those styles for phone width
 
-## Week 11 (starting Mar 17)
+## Week 11
 
 ### Using a custom domain name for your github.io repo (6:05)
 
@@ -204,7 +207,7 @@ Docs: https://help.github.com/articles/setting-up-a-custom-domain-with-pages
 
 ### Due March 21: Ex4 CSS typography
 
-## Week 12 (starting Mar 21)
+## Week 12
 
 ### Due March 28: Ex5 CSS selectors (6:43)
 
