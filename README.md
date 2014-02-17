@@ -139,7 +139,7 @@ https://vimeo.com/76875414
 
 ### Due February 21: Ex3 HTML wireframe
 
-## Week 7
+## Week 7 (starting Feb 17)
 
 ### Float and Clear (15:16)
 
@@ -164,7 +164,7 @@ http://vimeo.com/78179491
 * 23:52 Chrome's web inspector and developer tools
 * 31:50 2-column responsive layout
 
-## Week 8
+## Week 8 (starting Feb 25)
 
 ### Media Queries (24:39)
 
@@ -183,7 +183,7 @@ https://vimeo.com/78232538
 
 https://vimeo.com/78232975
 
-## Week 10
+## Week 10 (starting Mar 10)
 
 ### Building ufspj.com with more complicated selectors (1:37:34)
 
@@ -194,7 +194,7 @@ https://vimeo.com/79536323
 * Set h1, h2 and p styles for desktop
 * Override those styles for phone width
 
-## Week 11
+## Week 11 (starting Mar 17)
 
 ### Using a custom domain name for your github.io repo (6:05)
 
@@ -204,7 +204,7 @@ Docs: https://help.github.com/articles/setting-up-a-custom-domain-with-pages
 
 ### Due March 21: Ex4 CSS typography
 
-## Week 12
+## Week 12 (starting Mar 21)
 
 ### Due March 28: Ex5 CSS selectors (6:43)
 
