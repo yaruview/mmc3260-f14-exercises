@@ -139,8 +139,8 @@ https://vimeo.com/76875414
 
 ### Due February 21: Ex3 Wireframe and HTML prototype
 
-1. Create a sketch of one of your pages and put it in the `/img/` folder of your exercsies repository. [more info](https://github.com/gotoplanb/mmc3260-s14-exercises/wiki/Exercise-3:-What-am-I-suppose-to-do%3F)
-2. Write all off the HTML you need for the overall site structure and major content elements. This code should be placed in `3-html-wireframe.html` [more info](https://github.com/gotoplanb/mmc3260-s14-exercises/wiki/Exercise-3:-What-am-I-suppose-to-do%3F)
+1. Create a sketch of one of your pages and put it in the `/img/` folder of your exercsies repository. [more info](https://github.com/gotoplanb/mmc3260-s14-exercises/wiki/Exercise-3:-What-am-I-supposed-to-do%3F)
+2. Write all off the HTML you need for the overall site structure and major content elements. This code should be placed in `3-html-wireframe.html` [more info](https://github.com/gotoplanb/mmc3260-s14-exercises/wiki/Exercise-3:-What-am-I-supposed-to-do%3F)
 
 ## Week 7
 
