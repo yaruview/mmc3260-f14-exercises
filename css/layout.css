@@ -2,55 +2,129 @@
 
 /* Typically you put all of your general element styles at the top. */
 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
 body {
-	background-color: #eeeeee;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 16px;
+    line-height: 24px;
+	background-color: #C7CACF;
+    border: 10px solid #4DF0FF;
+    border-top: 0;
+    
 }
 
-h1 {
-	color: #111111;
-}
-
-h2 {
-
-}
-
-p {
-
-}
-
-img {
-
-}
 
 
 /* Container or module styles probably come next. */
 
 header {
+    background-color: #4DF0FF;
+    color: #ffffff;
+    height: 60px;
+    
+   
+}
 
+header h1 {
+ float: left;
+    font-family: helvetica, arial, sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+        padding: 18px;
+    color: #000000;
+    
 }
 
 nav {
-
+  float: left;
+    padding: 18px;
 }
 
 nav a {
 
 }
+header a { 
+    color: #000000;
+    margin-right: 16px;
+    text-decoration: none;
+    padding: 0 0 0 10px;
 
+}
+
+header a:hover {
+    color: #C7CACF;
+}
+
+
+
+h2 {
+  padding: 16px 0 8px 16px;
+  color: #000000;
+    
+    
+    
+
+}
+
+
+
+p {
+    padding: 0 16px 0 16px;
+    margin-bottom: 1rem;
+}
+
+
+article {
+ clear: both;   
+padding: 0 10px 0 10px;
+
+}
+
+article h2 {
+    color: #000000;
+    font-size:36px;
+    line-height: 44px;
+    padding: 16px 0 8px 16px;
+    
+}
+
+article h3 {
+    color: #000000;
+    font-size: 24px;
+    line-height: 44px;
+    padding: 16px 0 8px 16px;
+    
+    
+}
 section {
+   
+}
+
+img {
+ float:right; 
+    border: 3px solid #000000;
+    margin: 10px;
+    
 
 }
 
 aside {
+  margin-top: 32px;
+    
 
 }
 
 footer {
-
+    padding: 10px 10px 0 10px;
+    clear:both;
+    
 }
 
 /* Class and ID styles come last because they are the most specific. */
 
-#copyright {
-
-}
