@@ -217,7 +217,7 @@ Docs: https://help.github.com/articles/setting-up-a-custom-domain-with-pages
 
 https://vimeo.com/87210489
 
-### Due March 28: Ex5 CSS selectors (6:43)
+### Due March 28: Ex5 CSS selectors
 
 * Fork [projectexplorer.github.io](https://github.com/projectexplorer/projectexplorer.github.io)
 * Make useful additions to `style.css` to improve the look of the footer.
