@@ -213,9 +213,13 @@ Docs: https://help.github.com/articles/setting-up-a-custom-domain-with-pages
 
 ## Week 12
 
+### (optional) Building projectexplorer.org part 3: Article page (45:18)
+
+https://vimeo.com/87210489
+
 ### Due March 28: Ex5 CSS selectors (6:43)
 
-* Fork TBD
-* Make useful additions to `style.css` though the use of at least two selectors: descendent, adjacent, id or class.
+* Fork [projectexplorer.github.io](https://github.com/projectexplorer/projectexplorer.github.io)
+* Make useful additions to `style.css` to improve the look of the footer.
 * Create a pull request
-* Confirm your pull request at URL TBD
+* Confirm [your pull request exists](https://github.com/projectexplorer/projectexplorer.github.io/pulls).
