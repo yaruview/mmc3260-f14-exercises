@@ -211,6 +211,15 @@ Docs: https://help.github.com/articles/setting-up-a-custom-domain-with-pages
 
 ### Due March 21: Ex4 CSS typography
 
+Video explainer of ex4: https://vimeo.com/89638558
+  
+1. Edit your GitHub profile to include your full name
+2. Fork https://github.com/projectexplorer/projectexplorer.github.io
+3. Clone to your computer
+4. Make at least 4 changes to the footer with CSS
+5. Commit and sync
+6. Go to your your fork and open a pull request
+
 ## Week 12
 
 ### (optional) Building projectexplorer.org part 3: Article page (45:18)
