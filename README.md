@@ -226,9 +226,10 @@ Video explainer of ex4: https://vimeo.com/89638558
 
 https://vimeo.com/87210489
 
-### Due March 28: Ex5 CSS selectors
+### Due April 6: Ex5 CSS selectors
 
 * Fork [projectexplorer.github.io](https://github.com/projectexplorer/projectexplorer.github.io)
-* Make useful additions to `style.css` to improve the look of the footer.
+* Add at least 4 different types of selectors to improve the page (such as child, descendent, adjacent, class, etc.)
+* Here are a bunch of selector types: http://flukeout.github.io/
 * Create a pull request
 * Confirm [your pull request exists](https://github.com/projectexplorer/projectexplorer.github.io/pulls).
