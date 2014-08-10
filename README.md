@@ -45,8 +45,6 @@ https://vimeo.com/album/60951/video/73275757
 
 https://vimeo.com/album/60951/video/73275774
 
-### Due January 17: Set-up your Wordpress blog and Github account
-
 ## Week 3
 
 ### Links (41:43)
@@ -85,7 +83,7 @@ https://vimeo.com/album/60951/video/73314759
 
 https://vimeo.com/album/60951/video/74087366
 
-### Due January 26: Ex1 HTML quick fix
+### Ex1 HTML quick fix
 
 Fix any incorrect tag syntax or mismatched tags in 1.html-quick-fix.html
 
@@ -101,7 +99,7 @@ https://vimeo.com/album/60951/video/74087374
 
 https://vimeo.com/album/60951/video/74087378
 
-### Due February 7: Ex2 HTML links and images
+### Ex2 HTML links and images
 
 Fix all broken absolute and relative URLs used for links and images in your `2-html-links-and-images.html` file of your repository fork. [(more info)](https://github.com/gotoplanb/mmc3260-s14-exercises/wiki/Exercise-2:-What-am-I-supposed-to-do%3F)
 
@@ -137,7 +135,7 @@ https://vimeo.com/76875414
 
 * 0:00 Embed a YouTube video as an iframe
 
-### Due February 21: Ex3 Wireframe and HTML prototype
+### Ex3 Wireframe and HTML prototype
 
 1. Create a sketch of one of your pages and put it in the `/img/` folder of your exercsies repository. [more info](https://github.com/gotoplanb/mmc3260-s14-exercises/wiki/Exercise-3:-What-am-I-supposed-to-do%3F)
 2. Write all off the HTML you need for the overall site structure and major content elements. This code should be placed in `3-html-wireframe.html` [more info](https://github.com/gotoplanb/mmc3260-s14-exercises/wiki/Exercise-3:-What-am-I-supposed-to-do%3F)
@@ -192,7 +190,7 @@ https://vimeo.com/78232975
 
 https://vimeo.com/86071547
 
-### Due 11:59 p.m. Thursday, March 13: Personal website first draft
+### Project: Personal website first draft
 
 * Set h1, h2 and p styles for desktop
 * Override those styles for phone width
@@ -209,7 +207,7 @@ https://vimeo.com/79538776
 
 Docs: https://help.github.com/articles/setting-up-a-custom-domain-with-pages
 
-### Due March 21: Ex4 CSS typography
+### Ex4 CSS typography
 
 Video explainer of ex4: https://vimeo.com/89638558
   
@@ -226,7 +224,7 @@ Video explainer of ex4: https://vimeo.com/89638558
 
 https://vimeo.com/87210489
 
-### Due April 6: Ex5 CSS selectors
+### Ex5 CSS selectors
 
 * Fork [projectexplorer.github.io](https://github.com/projectexplorer/projectexplorer.github.io)
 * Add at least 4 different types of selectors to improve the page (such as child, descendent, adjacent, class, etc.)
